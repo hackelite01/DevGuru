@@ -1,0 +1,36 @@
+li,
+p {
+  line-height: 1.5rem;
+}
+
+#counter {
+  float: right;
+}
+
+a {
+  font-weight: 500;
+}
+
+hr {
+  border: 1px solid #ddd;
+}
+
+iframe {
+  background: #ccc;
+  border: 1px solid #ccc;
+  height: 10rem;
+  width: 100%;
+  border-radius: 0.5rem;
+  filter: invert(1);
+}
+
+textarea {
+  width: 97%;
+  height: 10rem;
+  border: 1px solid #ccc;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  font-size: 1rem;
+  resize: vertical;
+  box-shadow: inset 0 0 0 1px rgb(220, 231, 255);
+}
